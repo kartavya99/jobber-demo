@@ -7,7 +7,11 @@
 - `CI/CD pipeline with Jenkins`
 - `Monitoring and logs management`
 
-# DEMO VIDEO [Jobber](https://drive.google.com/file/d/1G0xpbxHNIADzduSL7AJmYgjogrEmlhmx/view)
+# JOBBER APP VIDEO [Jobber APP](https://drive.google.com/file/d/1rI_0ksaDkI-E0z1eek4-2n9sl4m7aNqj/view?usp=sharing)
+
+# KIBANA VIDEO [Jobber - Kibana Dashboard](https://drive.google.com/file/d/1m2HHlmPK7zlYsVIz-e_Vfdhb0lZxkTsl/view?usp=sharing)
+
+# Kubernetes deployment VIDEO [Jobber - Kubernetes](https://drive.google.com/file/d/1fOsuKaAW0aEnlytbmSKPGCc6qmZ2vcnJ/view?usp=sharing)
 
 ### Each structure is broken down into its sections
 
